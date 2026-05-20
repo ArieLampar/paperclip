@@ -176,9 +176,9 @@ A change is done when all are true:
 4. Docs updated when behavior or commands change
 5. PR description follows the [PR template](.github/PULL_REQUEST_TEMPLATE.md) with all sections filled in (including Model Used)
 
-## 11. Fork-Specific: HenkDz/paperclip
+## 11. Fork-Specific: ArieLampar/paperclip
 
-This is a fork of `paperclipai/paperclip` with QoL patches and an **external-only** Hermes adapter story on branch `feat/externalize-hermes-adapter` ([tree](https://github.com/HenkDz/paperclip/tree/feat/externalize-hermes-adapter)).
+This is a fork of `paperclipai/paperclip` with QoL patches and an **external-only** Hermes adapter story. The git remote is `ArieLampar/paperclip` (forked from `HenkDz/paperclip`). See [tree](https://github.com/ArieLampar/paperclip/tree/main).
 
 ### Branch Strategy
 
